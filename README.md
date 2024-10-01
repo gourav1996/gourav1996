@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gourav
 - 👀 I’m interested in AI, ML and IoT
-- 🌱 I’m currently workin as an AI Enginner.
+- 🌱 I’m currently workin as an Senior AI Enginner.
 - 💞️ I’m looking to collaborate in Intresting projects..
 - 📫 Reach me at: gouravsingh096@gmail.com
 
